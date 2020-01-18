@@ -21,7 +21,7 @@ class product
 	public:
 	void create_product()
 	{
-		cout<<"\nPlease Enter The Product No. of The Product ";
+		cout<<"\nPlease Enter The Product No. ";
 		cin>>pno;
 		cout<<"\n\nPlease Enter The Name of The Product ";
 		gets(name);
