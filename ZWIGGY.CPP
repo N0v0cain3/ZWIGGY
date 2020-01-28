@@ -121,9 +121,9 @@ void display_all()
 	fp.open("Shop.dat",ios::in);
 	while(fp.read((char*)&pr,sizeof(product)))
 	{
-		cout<<"\n\n====================================\n";
+		cout<<"\n\n==================================\n";
 		pr.show_product();
-		cout<<"\n\n====================================\n";
+		cout<<"\n\n==================================\n";
 		getch();
 	}
 	fp.close();
