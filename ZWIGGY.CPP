@@ -17,7 +17,7 @@ class product
 {
 	int pno;
 	char name[50];
-	float price,qty,tax,dis;
+	float price,qty,tax,dis,x;
 	public:
 	void create_product()
 	{
