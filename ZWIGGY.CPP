@@ -12,7 +12,7 @@ int check=0;
 int flag=0;
 void menu();
 void admin_menu();
-void user();
+void ();
 class product
 {
 	int pno;
