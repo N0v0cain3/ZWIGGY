@@ -7,4 +7,4 @@ It has a nice graphical layout written in C++ Language.
 It can add new food products and it also helps in ordering food from the restaurants shown. 
 The admin can add new food products which are accessible by the user (by pressing 0 in the user menu).
 The admin has control over the newly added items i.e. they can add, delete, modify, query or display the products.
-This project was made on TurboC++, code might not work on latest compliers.
+This project was made on TurboC++ with graphics driver already installed, code might not work on latest compliers.
